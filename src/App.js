@@ -5,7 +5,7 @@ import logo from './logo.png'; // Assuming logo.png is in the same directory as 
 // Replace getBaseUrl function
 const getBaseUrl = () => {
   if (process.env.NODE_ENV === 'production') {
-    return 'https://your-render-backend-name.onrender.com'; // You'll get this URL after deploying
+    return 'https://rfp-assistant-backend.onrender.com'; // You'll get this URL after deploying
   }
   return 'http://localhost:5000';
 };

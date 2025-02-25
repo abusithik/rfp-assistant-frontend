@@ -190,7 +190,7 @@ const App = () => {
               }}
             />
           </div>
-          <h1 style={styles.title}>RFP Assistant</h1>
+          <h1 style={styles.title}> </h1>
         </div>
       </header>
 
